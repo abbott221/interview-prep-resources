@@ -1,5 +1,8 @@
 ## Interview Prep Resources
 
+
+<img src="https://raw.githubusercontent.com/abbott221/interview-prep-resources/main/IMG_9092.jpg" alt="header or footer" style="width:100%"/>
+
 **Data Structures & Algorithms:**
 - [Introduction to Algorithms](https://www.amazon.com/dp/026204630X/) by "CLRS" -- ISBN: 978-0262046305
 - [The Algorithm Design Manual](https://www.amazon.com/dp/3030542556/) by Steven Skiena -- ISBN: 978-3030542559
